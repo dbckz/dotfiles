@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+  name = dbckz
+
+[core]
+  editor = vim
+  excludesfile = ~/.gitignore
+
+[help]
+  autocorrect = 10
