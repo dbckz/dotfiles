@@ -14,6 +14,7 @@ power on mac, open terminal
 
 ```
 git clone https://github.com/dbckz/dotfiles.git
+cd dotfiles
 make
 ```
 
