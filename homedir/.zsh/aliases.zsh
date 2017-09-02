@@ -6,8 +6,8 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias ~="cd ~"
-alias github="cd ~/Projects/github"
-alias learn="cd ~/Learning"
+alias projects="cd ~/projects"
+alias github="cd ~/projects/github"
 
 # Some command line shortcuts
 alias l='ls -lhF'
