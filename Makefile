@@ -10,8 +10,10 @@ recipes:
 	brew install \
 		caskroom/cask/brew-cask \
 		git \
+		go \
 		ipcalc \
 		keepassx \
+		pre-commit \
 		python \
 		python3 \
 		ssh-copy-id \
