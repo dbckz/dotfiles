@@ -9,13 +9,17 @@ brew:
 recipes:
 	brew install \
 		caskroom/cask/brew-cask \
+		colordiff \
 		git \
 		go \
+		httpie \
 		ipcalc \
 		keepassx \
+		mtr \
 		pre-commit \
 		python \
 		python3 \
+		rename \
 		ssh-copy-id \
 		watch \
 		wget
@@ -29,9 +33,11 @@ cask:
 		google-chrome \
 		iterm2 \
 		slack \
+		soundflower \
 		spotify \
 		vagrant \
 		virtualbox \
+		wireshark \
 		xquartz 
 	brew cask cleanup
 
